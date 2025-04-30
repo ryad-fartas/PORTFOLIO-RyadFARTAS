@@ -1,0 +1,42 @@
+#mrgn {
+    width: 80%;
+    height: 670px;
+    background: darkgray;
+  margin: auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+#brdr {
+    width: 90%;
+    height: 560px;
+    background: blue;
+    margin: auto;
+
+}
+
+#padng {
+    width: 90%;
+    height: 435px;
+    background: rgba(239, 239, 239, 781);
+   margin: auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+#cntnt {
+    width: 90%;
+    height: 320px;
+    background-color: white;
+   margin: auto;
+}
+
+div {
+    text-align: center;
+    border: black solid;
+}
+h2{
+    border: solid;
+}
